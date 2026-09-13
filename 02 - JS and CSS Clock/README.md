@@ -1,4 +1,4 @@
-## Notes
+## JS and CSS Clock
 
 用 CSS 和 JS 來模擬一個時鐘。
 

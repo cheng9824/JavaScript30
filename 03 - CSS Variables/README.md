@@ -1,4 +1,4 @@
-## Notes
+## CSS Variables
 
 用 JS 和 CSS 製作一個即時的圖片濾淨效果，可以調整內邊距、模糊、邊框色。
 
