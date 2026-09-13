@@ -1,6 +1,3 @@
-# 01 - JavaScript Drum Kit
+## JavaScript Drum Kit
 
-## Introduction
-![the javascript drum kit screenshot](./screenshot_1.png)
-
-按下對應的按鍵會有鼓聲，並顯示動畫特效。
+此作品是當使用者按下特定鍵盤按鈕時，會發出鼓聲，同時也會顯示簡單的特效。
