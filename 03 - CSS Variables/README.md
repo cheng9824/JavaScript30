@@ -23,4 +23,7 @@ function handleUpdate() {
 
 ## References
 
-
+- [dwatow](https://github.com/dwatow/JavaScript30/tree/master/03%20CSS%20Variables)
+- [dustinhsiao21](https://github.com/dustinhsiao21/Javascript30-dustin/tree/master/03%20-%20CSS%20Variables)
+- [guahsu](https://github.com/guahsu/JavaScript30/tree/master/03_CSS-Variables)
+- [a90100](https://github.com/a90100/JavaScript30/tree/master/03%20-%20CSS%20Variables)
