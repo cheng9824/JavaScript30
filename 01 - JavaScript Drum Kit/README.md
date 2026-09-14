@@ -12,4 +12,7 @@
 
 ## References
 
-
+- [dwatow](https://github.com/dwatow/JavaScript30/tree/master/01%20JavaScript%20Drum%20Kit)
+- [dustinhsiao21](https://github.com/dustinhsiao21/Javascript30-dustin/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+- [guahsu](https://github.com/guahsu/JavaScript30/tree/master/01_Java-Script-Drum-Kit)
+- [a90100](https://github.com/a90100/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
