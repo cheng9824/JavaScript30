@@ -39,4 +39,8 @@ return `rotate(${deg}deg)`;
 
 ## References
 
+- [dwatow](https://github.com/dwatow/JavaScript30/tree/master/02%20JS%20and%20CSS%20Clock)
+- [dustinhsiao21](https://github.com/dustinhsiao21/Javascript30-dustin/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+- [guahsu](https://github.com/guahsu/JavaScript30/tree/master/02_JS-and-CSS-Clock)
+- [a90100](https://github.com/a90100/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 
