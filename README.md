@@ -8,6 +8,7 @@
 - [JS and CSS Clock](./02%20-%20JS%20and%20CSS%20Clock/)
 - [CSS Variables](./03%20-%20CSS%20Variables/)
 - [Array Cardio Day 1](./04%20-%20Array%20Cardio%20Day%201/)
+- [Flex Panel Gallery](./05%20-%20Flex%20Panel%20Gallery/)
 
 ## References
 
