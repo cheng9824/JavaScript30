@@ -10,6 +10,7 @@
 - [Array Cardio Day 1](./04%20-%20Array%20Cardio%20Day%201/)
 - [Flex Panel Gallery](./05%20-%20Flex%20Panel%20Gallery/)
 - [Type Ahead](./06%20-%20Type%20Ahead/)
+- [Array Cardio Day 2](./07%20-%20Array%20Cardio%20Day%202/)
 
 ## References
 
