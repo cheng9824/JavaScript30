@@ -17,6 +17,7 @@
 - [Key Sequence Detection](./12%20-%20Key%20Sequence%20Detection/)
 - [Slid in on Scroll](./13%20-%20Slide%20in%20on%20Scroll/)
 - [JavaScript References VS Copying](./14%20-%20JavaScript%20References%20VS%20Copying/)
+- [Local Storage](./15%20-%20LocalStorage/)
 
 ## References
 
